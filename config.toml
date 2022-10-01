@@ -1,4 +1,4 @@
-baseURL = "https://wchorski.github.io/"
+baseURL = "https://wchorski.github.io/hello"
 theme = "risotto"
 title = "wchorski says Hello"
 author = "William Chorski"

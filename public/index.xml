@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>wchorski says Hello</title>
-    <link>https://wchorski.github.io/</link>
+    <link>https://wchorski.github.io/hello/</link>
     <description>Recent content on wchorski says Hello</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2021–2022</copyright><atom:link href="https://wchorski.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2021–2022</copyright><atom:link href="https://wchorski.github.io/hello/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://wchorski.github.io/about/</link>
+      <link>https://wchorski.github.io/hello/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://wchorski.github.io/about/</guid>
+      <guid>https://wchorski.github.io/hello/about/</guid>
       <description>About me this is all about me</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://wchorski.github.io/posts/</link>
+      <link>https://wchorski.github.io/hello/posts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://wchorski.github.io/posts/</guid>
+      <guid>https://wchorski.github.io/hello/posts/</guid>
       <description>here are all the posts </description>
     </item>
     

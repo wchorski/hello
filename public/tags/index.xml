@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on wchorski says Hello</title>
-    <link>https://wchorski.github.io/tags/</link>
+    <link>https://wchorski.github.io/hello/tags/</link>
     <description>Recent content in Tags on wchorski says Hello</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2021–2022</copyright><atom:link href="https://wchorski.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2021–2022</copyright><atom:link href="https://wchorski.github.io/hello/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
