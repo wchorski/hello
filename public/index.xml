@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>wchorski says Hello</title>
+    <link>https://wchorski.github.io/</link>
+    <description>Recent content on wchorski says Hello</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2021–2022</copyright><atom:link href="https://wchorski.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://wchorski.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wchorski.github.io/about/</guid>
+      <description>About me this is all about me</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://wchorski.github.io/posts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wchorski.github.io/posts/</guid>
+      <description>here are all the posts </description>
+    </item>
+    
+  </channel>
+</rss>
